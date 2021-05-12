@@ -1,0 +1,4 @@
+[submodule "pan-os-php"]
+	path = pan-os-php
+	url = https://github.com/PaloAltoNetworks/pan-os-php
+	branch = main
