@@ -8,8 +8,13 @@ Windows package for framework PAN-OS-PHP
 
 Pre-packaged PHP for PAN-OS-PHP
 
-unzip folder 'dev' and move it to c:\
+- install Github Desktop
+- load pan-os-php-windows-package via Github Desktop
 
-run ‘run-once-to-setup.bat’ then ‘console.bat’ to start using it.
 
-‘update-pan-os-php.bat’ from time to time to get latest version
+- go into local repository folder 
+- run '**run-once-to-setup.bat**'
+- run '**update-pan-os-php.bat**'
+- run '**console.bat**' to start using it
+
+‘**update-pan-os-php.bat**’ from time to time to get latest version
